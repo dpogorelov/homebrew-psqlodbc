@@ -2,7 +2,7 @@
 
 ## Install the libraries
 
-    $ brew tap pingles/homebrew-psqlodbc
+    $ brew tap dpogorelov/homebrew-psqlodbc
     $ brew install libiodbc
     $ brew install psqlodbc --with-iodbc
 
