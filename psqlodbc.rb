@@ -1,8 +1,8 @@
 require 'formula'
 
 class Psqlodbc < Formula
-  homepage 'http://psqlodbc.projects.pgfoundry.org/'
-  url 'http://ftp.postgresql.org/pub/odbc/versions/src/psqlodbc-09.01.0200.tar.gz'
+  homepage 'https://odbc.postgresql.org/'
+  url 'http://ftp.postgresql.org/pub/odbc/versions/src/psqlodbc-09.05.0100.tar.gz'
   sha1 '9ecee7c370ec6a0d87791490dea01723436a4e2b'
   
   depends_on "postgresql"
